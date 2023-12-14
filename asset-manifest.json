@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/proyecto-final-122/static/css/main.5463d1bc.css",
+    "main.js": "/proyecto-final-122/static/js/main.3bd57ec0.js",
+    "static/js/787.d42a7c65.chunk.js": "/proyecto-final-122/static/js/787.d42a7c65.chunk.js",
+    "static/media/Afeitadora.jpg": "/proyecto-final-122/static/media/Afeitadora.49c3cc18f418fec1519c.jpg",
+    "static/media/Fanta.jpg": "/proyecto-final-122/static/media/Fanta.384f29e1c8d12ed32997.jpg",
+    "static/media/Zanahoria.jpg": "/proyecto-final-122/static/media/Zanahoria.b6743e3a0896411cb177.jpg",
+    "static/media/Salchicha.jpg": "/proyecto-final-122/static/media/Salchicha.7786a809990137a43963.jpg",
+    "static/media/Sandia.jpg": "/proyecto-final-122/static/media/Sandia.fbbb7cc9d85bc7d3ba2e.jpg",
+    "static/media/Tomate.jpg": "/proyecto-final-122/static/media/Tomate.802541da6071a2b88751.jpg",
+    "static/media/Croissant.jpg": "/proyecto-final-122/static/media/Croissant.08c64a74f6cfb363c05d.jpg",
+    "static/media/Johnnieblack.jpg": "/proyecto-final-122/static/media/Johnnieblack.8ff2644381cc0b81641d.jpg",
+    "static/media/Cocacola.jpg": "/proyecto-final-122/static/media/Cocacola.d629628b1cd3ac3652d4.jpg",
+    "static/media/Paneton.jpg": "/proyecto-final-122/static/media/Paneton.ba4f15a9050c34f92e69.jpg",
+    "static/media/Durazno.jpg": "/proyecto-final-122/static/media/Durazno.2a236b67a27d3411215d.jpg",
+    "static/media/Lechuga.jpg": "/proyecto-final-122/static/media/Lechuga.e7dcfd74986a1ffe40c8.jpg",
+    "static/media/Perfume.jpg": "/proyecto-final-122/static/media/Perfume.5538cb7ed34065de9f1e.jpg",
+    "static/media/Arbeja.jpg": "/proyecto-final-122/static/media/Arbeja.0ab74e51b122032a2d20.jpg",
+    "static/media/Shampo.jpg": "/proyecto-final-122/static/media/Shampo.0a5db9bda51fc4b1fc5f.jpg",
+    "static/media/Jabones.jpg": "/proyecto-final-122/static/media/Jabones.de06e9a41800fae0da87.jpg",
+    "static/media/Manzana.jpg": "/proyecto-final-122/static/media/Manzana.caa1bd289fb03db848f4.jpg",
+    "static/media/Chocolate.jpg": "/proyecto-final-122/static/media/Chocolate.cfe9cbbcc0b8cd5f06af.jpg",
+    "static/media/Sprite.jpg": "/proyecto-final-122/static/media/Sprite.ab5824b9c7de489393a1.jpg",
+    "static/media/Platano.jpg": "/proyecto-final-122/static/media/Platano.683040d2d21da6bbde6c.jpg",
+    "static/media/Pastel.jpg": "/proyecto-final-122/static/media/Pastel.d6f95138373392d305ce.jpg",
+    "static/media/logo.svg": "/proyecto-final-122/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyecto-final-122/index.html",
+    "main.5463d1bc.css.map": "/proyecto-final-122/static/css/main.5463d1bc.css.map",
+    "main.3bd57ec0.js.map": "/proyecto-final-122/static/js/main.3bd57ec0.js.map",
+    "787.d42a7c65.chunk.js.map": "/proyecto-final-122/static/js/787.d42a7c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5463d1bc.css",
+    "static/js/main.3bd57ec0.js"
+  ]
+}
