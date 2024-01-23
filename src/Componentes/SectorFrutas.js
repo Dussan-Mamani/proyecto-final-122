@@ -8,7 +8,7 @@ export const SectorFrutas = () => {
   return (
     <div>
            <h2>SECTOR fRUTAS</h2>
-       <ul>
+       <ol>
          <img src={Manzana}/>
          <li>MANZANA 20 Bs</li>
          <img src={Durazno}/>
@@ -17,7 +17,7 @@ export const SectorFrutas = () => {
         <li>SANDIA 40 Bs</li>
         <img src={Platano}/>
         <li>PLATANO 10 Bs</li>
-      </ul>
+      </ol>
     
     </div>
   )

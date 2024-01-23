@@ -8,7 +8,7 @@ export const SectorMasitas = () => {
   return (
     <div>
            <h2>SECTOR MASITAS</h2>
-       <ul>
+       <ol>
          <img src={Pastel}/>
          <li>PASTEL 90 Bs</li>
          <img src={Tresleches}/>
@@ -17,7 +17,7 @@ export const SectorMasitas = () => {
         <li>CROISSANT 50 Bs</li>
         <img src={Paneton}/>
         <li>PANETON 60 Bs</li>
-      </ul>
+      </ol>
     
     </div>
   )

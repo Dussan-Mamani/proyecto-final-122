@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { NavBar } from './Componentes/NavBar';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import { Principal } from './Componentes/Principal';
 import { SectorBebidas } from './Componentes/SectorBebidas';
 import { PaginaNoEncontrada } from './Componentes/PaginaNoEncontrada';
@@ -12,12 +12,12 @@ import { SectorGeneral } from './Componentes/SectorGeneral';
 import { SectorMasitas } from './Componentes/SectorMasitas';
 import { SectorSodas } from './Componentes/SectorSodas';
 import { SectorVegetales } from './Componentes/SectorVegetales';
+import { PaginaDeCredito } from './Componentes/PaginaDeCredito';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <Router>
 <Routes>
   <Route path='/' element={<Principal/>}/>
   <Route path='/sectorbebidas' element={<SectorBebidas/>}/>
@@ -28,10 +28,9 @@ function App() {
   <Route path='/sectormasitas' element={<SectorMasitas/>}/>
   <Route path='/sectorsodas' element={<SectorSodas/>}/>
   <Route path='/sectorvegetales' element={<SectorVegetales/>}/>
+  <Route path='/paginadecredito' element={<PaginaDeCredito/>}/>
   <Route path='/*' element={<PaginaNoEncontrada/>}/>
-
 </Routes>
-      </Router>
       
     </div>
   );

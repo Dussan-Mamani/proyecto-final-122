@@ -7,7 +7,7 @@ export const SectorBebidas = () => {
   return (
     <div>
        <h2>SECTOR BEBIDAS</h2>
-       <ul>
+       <ol>
          <img src={Redlabel}/>
          <li>RED LABEL 90 Bs</li>
          <img src={Casareal}/>
@@ -16,9 +16,8 @@ export const SectorBebidas = () => {
         <li>JOHNNIE WALKER 700 Bs</li>
         <img src={Vino}/>
         <li>VINO 60 Bs</li>
-      </ul>
-    
-    </div>
+        </ol>
+        </div>
   )
 }
 

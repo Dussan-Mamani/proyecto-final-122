@@ -32,18 +32,16 @@ p2{
   display: flex;
   justify-content: center;
 }
-ul{
+ol{
   justify-content: space-around;
   text-align: center;
 }
 li{
-  text-align: left;
+  text-align: center;
   color: blue;
 }
 img{
-  display:flex;
-  justify-content: space-around;
-  width: 400px;
+  width: 300px;
 }
 nav{
   display: flex;
@@ -54,12 +52,23 @@ nav{
 color: green; 
 display:flex;
 justify-content: space-around;
-width: 100%;
+width: 80%;
 list-style: none;
 cursor: pointer;
 }
 div{
   background-color: orange;
+}
+button{
+  border: solid 5px;
+  text-align: center;
+  width: 60px;
+  background-color:black;
+  color: yellow;
+}
+input{
+  border: solid red;
+  width: 200px;
 }
 
 code {
