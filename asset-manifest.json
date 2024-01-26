@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/proyecto-final-122/static/css/main.761f0bf0.css",
-    "main.js": "/proyecto-final-122/static/js/main.5630e4bd.js",
+    "main.css": "/proyecto-final-122/static/css/main.e07df000.css",
+    "main.js": "/proyecto-final-122/static/js/main.94e8ee71.js",
     "static/js/787.d42a7c65.chunk.js": "/proyecto-final-122/static/js/787.d42a7c65.chunk.js",
     "static/media/Afeitadora.jpg": "/proyecto-final-122/static/media/Afeitadora.49c3cc18f418fec1519c.jpg",
     "static/media/Fanta.jpg": "/proyecto-final-122/static/media/Fanta.384f29e1c8d12ed32997.jpg",
@@ -26,12 +26,12 @@
     "static/media/Pastel.jpg": "/proyecto-final-122/static/media/Pastel.d6f95138373392d305ce.jpg",
     "static/media/logo.svg": "/proyecto-final-122/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/proyecto-final-122/index.html",
-    "main.761f0bf0.css.map": "/proyecto-final-122/static/css/main.761f0bf0.css.map",
-    "main.5630e4bd.js.map": "/proyecto-final-122/static/js/main.5630e4bd.js.map",
+    "main.e07df000.css.map": "/proyecto-final-122/static/css/main.e07df000.css.map",
+    "main.94e8ee71.js.map": "/proyecto-final-122/static/js/main.94e8ee71.js.map",
     "787.d42a7c65.chunk.js.map": "/proyecto-final-122/static/js/787.d42a7c65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.761f0bf0.css",
-    "static/js/main.5630e4bd.js"
+    "static/css/main.e07df000.css",
+    "static/js/main.94e8ee71.js"
   ]
 }
