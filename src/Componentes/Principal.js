@@ -8,7 +8,7 @@ export const Principal = () => {
         <p>
           ESTE SUPERMERCADO PATITO OFRECE A LOS USUARIOS DIVERSOS PRODUCTOS
         </p>
-       <p2> <img src={Patito}/></p2>
+       <p className='p2'> <img src={Patito}/></p>
          
     </div>
   )

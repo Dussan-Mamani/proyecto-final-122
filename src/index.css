@@ -23,25 +23,24 @@ h3{
 p{
 color: blue;
 }
-P1{
-  color: blue;
-  text-align: left;
-  justify-content: space-around;
-}
-p2{
+.p2{
   display: flex;
   justify-content: center;
 }
 ol{
   justify-content: space-around;
   text-align: center;
+  align-items: center;
 }
 li{
   text-align: center;
   color: blue;
 }
 img{
-  width: 300px;
+  width: 300px;/*ancho*/
+  height: 300px;/*alto*/
+  object-fit: cover;/*para ocultar todo elemento fuera del contenedor*/
+  
 }
 nav{
   display: flex;

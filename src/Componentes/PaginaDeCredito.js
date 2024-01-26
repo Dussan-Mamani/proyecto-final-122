@@ -24,7 +24,7 @@ export const PaginaDeCredito = () => {
             <input type='tel' name='valor4' id='valor4' />
             <li></li>
             <li>
-                <button onClick={"valor1,valor2,valor3,valor4"}>ENVIAR</button>
+                <button>ENVIAR</button>
            </li>
            </li>
         </ol>

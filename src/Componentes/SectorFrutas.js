@@ -7,7 +7,7 @@ import Platano from "./img/Platano.jpg"
 export const SectorFrutas = () => {
   return (
     <div>
-           <h2>SECTOR fRUTAS</h2>
+           <h2>SECTOR FRUTAS</h2>
        <ol>
          <img src={Manzana}/>
          <li>MANZANA 20 Bs</li>
