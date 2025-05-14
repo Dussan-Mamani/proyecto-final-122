@@ -4,7 +4,7 @@ import Jabones from "./img/Jabones.jpg"
 import Afeitadora from "./img/Afeitadora.jpg"
 import Perfume from "./img/Perfume.jpg"
 
-export const SectorGeneral = () => {
+export const Videos = () => {
   return (
     <div>
            <h2>SECTOR GENERAL</h2>

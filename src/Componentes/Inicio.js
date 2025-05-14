@@ -3,7 +3,8 @@ import Redlabel from "./img/Redlabel.jpg"
 import Casareal from "./img/Casareal.jpg"
 import Johnniewalker from "./img/Johnnieblack.jpg"
 import Vino from "./img/Vino.jpg"
-export const SectorBebidas = () => {
+
+export const Inicio = () => {
   return (
     <div>
        <h2>SECTOR BEBIDAS</h2>

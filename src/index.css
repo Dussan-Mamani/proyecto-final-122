@@ -21,9 +21,17 @@ h3{
   padding: 50px;
 }
 p{
-color: blue;
+color: rgb(249, 249, 252);
 }
 .p2{
+  width: 400px;
+  height: 300px;
+  padding: 50px;
+  align-items: center;
+}
+.p3{
+  width: auto;
+  height: auto;
   display: flex;
   justify-content: center;
 }
@@ -34,8 +42,7 @@ ol{
 }
 li{
   text-align: center;
-  color: blue;
-}
+  color: aqua;}
 img{
   width: 300px;/*ancho*/
   height: 300px;/*alto*/
@@ -43,12 +50,11 @@ img{
   
 }
 nav{
+  background-color: black;
   display: flex;
   justify-content: space-around;
-  background-color: black;
 }
 .nav-list{
-color: green; 
 display:flex;
 justify-content: space-around;
 width: 80%;
@@ -56,13 +62,13 @@ list-style: none;
 cursor: pointer;
 }
 div{
-  background-color: orange;
+  background-color: rgb(248, 4, 4);
 }
 button{
   border: solid 5px;
   text-align: center;
   width: 60px;
-  background-color:black;
+  background-color:rgb(5, 5, 5);
   color: yellow;
 }
 input{

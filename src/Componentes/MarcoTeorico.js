@@ -3,7 +3,7 @@ import Chuleta from "./img/Chuleta.jpg"
 import Chorizo from "./img/Chorizo.jpg"
 import Pollo from "./img/Pollo.jpg"
 import Salchicha from "./img/Salchicha.jpg"
-export const SectorCarniceria = () => {
+export const MarcoTeorico = () => {
   return (
     <div>
            <h2>SECTOR CARNICERIA</h2>

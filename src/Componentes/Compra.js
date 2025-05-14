@@ -4,7 +4,7 @@ import Fanta from "./img/Fanta.jpg"
 import Pepsi from "./img/Pepsi.jpg"
 import Sprite from "./img/Sprite.jpg"
 
-export const SectorSodas = () => {
+export const Compra = () => {
   return (
     <div>
         <h2>SECTOR SODAS</h2>

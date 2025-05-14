@@ -4,7 +4,7 @@ import Durazno from "./img/Durazno.jpg"
 import Sandia from "./img/Sandia.jpg"
 import Platano from "./img/Platano.jpg"
 
-export const SectorFrutas = () => {
+export const OrientadoAObjetos = () => {
   return (
     <div>
            <h2>SECTOR FRUTAS</h2>

@@ -3,15 +3,14 @@ import './App.css';
 import { NavBar } from './Componentes/NavBar';
 import { Routes, Route } from 'react-router-dom';
 import { Principal } from './Componentes/Principal';
-import { SectorBebidas } from './Componentes/SectorBebidas';
-import { PaginaNoEncontrada } from './Componentes/PaginaNoEncontrada';
-import { SectorCarniceria } from './Componentes/SectorCarniceria';
-import { SectorFrituritas } from './Componentes/SectorFrituritas';
-import { SectorFrutas } from './Componentes/SectorFrutas';
-import { SectorGeneral } from './Componentes/SectorGeneral';
-import { SectorMasitas } from './Componentes/SectorMasitas';
-import { SectorSodas } from './Componentes/SectorSodas';
-import { SectorVegetales } from './Componentes/SectorVegetales';
+import { Inicio } from './Componentes/Inicio';
+import { MarcoTeorico } from './Componentes/MarcoTeorico';
+import { AnalisisEstructural } from './Componentes/AnalisisEstructural';
+import { OrientadoAObjetos } from './Componentes/OrientadoAObjetos';
+import { Videos } from './Componentes/Videos';
+import { Contacto } from './Componentes/Contacto';
+import { Compra } from './Componentes/Compra';
+import { Reserva } from './Componentes/Reserva';
 import { PaginaDeCredito } from './Componentes/PaginaDeCredito';
 
 function App() {
@@ -20,16 +19,15 @@ function App() {
       <NavBar />
 <Routes>
   <Route path='/' element={<Principal/>}/>
-  <Route path='/sectorbebidas' element={<SectorBebidas/>}/>
-  <Route path='/sectorcarniceria' element={<SectorCarniceria/>}/>
-  <Route path='/sectorfrituritas' element={<SectorFrituritas/>}/>
-  <Route path='/sectorfrutas' element={<SectorFrutas/>}/>
-  <Route path='/sectorgeneral' element={<SectorGeneral/>}/>
-  <Route path='/sectormasitas' element={<SectorMasitas/>}/>
-  <Route path='/sectorsodas' element={<SectorSodas/>}/>
-  <Route path='/sectorvegetales' element={<SectorVegetales/>}/>
+  <Route path='/inicio' element={<Inicio/>}/>
+  <Route path='/marcoteorico' element={<MarcoTeorico/>}/>
+  <Route path='/analisisestructural' element={<AnalisisEstructural/>}/>
+  <Route path='/orientadoaobjetos' element={<OrientadoAObjetos/>}/>
+  <Route path='/videos' element={<Videos/>}/>
+  <Route path='/contacto' element={<Contacto/>}/>
+  <Route path='/compra' element={<Compra/>}/>
+  <Route path='/reserva' element={<Reserva/>}/>
   <Route path='/paginadecredito' element={<PaginaDeCredito/>}/>
-  <Route path='/*' element={<PaginaNoEncontrada/>}/>
 </Routes>
       
     </div>

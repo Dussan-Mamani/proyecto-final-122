@@ -4,7 +4,7 @@ import Elceibo from "./img/Elceibo.jpg"
 import Doritos from "./img/Doritos.jpg"
 import Chocolate from "./img/Chocolate.jpg"
 
-export const SectorFrituritas = () => {
+export const AnalisisEstructural = () => {
   return (
     <div>
            <h2>SECTOR FRITURITAS</h2>

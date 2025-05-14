@@ -4,7 +4,7 @@ import Tresleches from "./img/Tresleches.jpg"
 import Croissant from "./img/Croissant.jpg"
 import Paneton from "./img/Paneton.jpg"
 
-export const SectorMasitas = () => {
+export const Contacto = () => {
   return (
     <div>
            <h2>SECTOR MASITAS</h2>

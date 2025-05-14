@@ -4,7 +4,7 @@ import Tomate from "./img/Tomate.jpg"
 import Lechuga from "./img/Lechuga.jpg"
 import Arbeja from "./img/Arbeja.jpg"
 
-export const SectorVegetales = () => {
+export const Reserva = () => {
   return (
     <div>
            <h2>SECTOR VEGETALES</h2>
